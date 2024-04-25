@@ -9,7 +9,7 @@ This project is based on Jonas Schmedtmann's [ADVANCED HTML-CSS & SASS(SCSS)](ht
 ✅[View demo](https://ph0enix46.github.io/Trillo-responsive-project---CSS-FLEXBOX/) 🐛[Bug report](https://github.com/pH0enix46/Trillo-responsive-project---CSS-FLEXBOX/issues)
 
 
-## About Nexter
+## About
 Nothing just me and my teacher [Jonas Schmedtmann](https://github.com/jonasschmedtmann) have fun with CSS GRID😄
 
 Anyways this project is based on advanced CSS FLEXBOX💪
